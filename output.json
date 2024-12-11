@@ -1,378 +1,302 @@
 {
     "index": 0,
     "selected_options": {
-        "level_1": "C",
-        "level_2": "6",
-        "level_3": "l"
-    },
-    "coordinates": "Clicked at (x=384, y=200)"
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "A",
-        "level_2": "2",
-        "level_3": "d"
-    },
-    "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "A",
-        "level_2": "2",
-        "level_3": "d"
-    },
-    "coordinates": "Saved options: Level 1 - A, Level 2 - 2, Level 3 - d, Coordinates - "
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": [],
+        "level_1": null,
         "level_2": [],
         "level_3": []
     },
     "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": [],
-        "level_2": [],
-        "level_3": []
-    },
-    "coordinates": "Saved options: Level 1 - [], Level 2 - [], Level 3 - [], Coordinates - "
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "C",
-        "level_2": "5",
-        "level_3": "j"
-    },
-    "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "C",
-        "level_2": "5",
-        "level_3": "j"
-    },
-    "coordinates": "Saved options: Level 1 - C, Level 2 - 5, Level 3 - j"
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "D",
-        "level_2": "8",
-        "level_3": "p"
-    },
-    "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "D",
-        "level_2": "8",
-        "level_3": "p"
-    },
-    "coordinates": "Saved options: Level 1 - D, Level 2 - 8, Level 3 - p"
 }
 {
     "index": 1,
     "selected_options": {
-        "level_1": "D",
-        "level_2": "8",
-        "level_3": "p"
-    },
-    "coordinates": "Now displaying: 2/2"
-}
-{
-    "index": 1,
-    "selected_options": {
-        "level_1": "D",
-        "level_2": "8",
-        "level_3": "p"
-    },
-    "coordinates": "Saved options: Level 1 - D, Level 2 - 8, Level 3 - p"
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "C",
-        "level_2": "5",
-        "level_3": "j"
-    },
-    "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "C",
-        "level_2": "5",
-        "level_3": "j"
-    },
-    "coordinates": "Saved options: Level 1 - C, Level 2 - 5, Level 3 - j"
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": [],
+        "level_1": null,
         "level_2": [],
         "level_3": []
-    },
-    "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": [],
-        "level_2": [],
-        "level_3": []
-    },
-    "coordinates": "Saved options: Level 1 - [], Level 2 - [], Level 3 - []"
-}
-{
-    "index": 1,
-    "selected_options": {
-        "level_1": [],
-        "level_2": [],
-        "level_3": []
-    },
-    "coordinates": "Now displaying: 2/4"
-}
-{
-    "index": 1,
-    "selected_options": {
-        "level_1": [],
-        "level_2": [],
-        "level_3": []
-    },
-    "coordinates": "Saved options: Level 1 - [], Level 2 - [], Level 3 - []"
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": ""
-}
-{
-    "index": 0,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Saved options: Level 1 - B, Level 2 - 3, Level 3 - f"
-}
-{
-    "index": 1,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
     },
     "coordinates": "Now displaying: 2/17"
 }
 {
     "index": 2,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": null,
+        "level_2": [],
+        "level_3": []
     },
     "coordinates": "Now displaying: 3/17"
 }
 {
     "index": 3,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": null,
+        "level_2": [],
+        "level_3": []
     },
     "coordinates": "Now displaying: 4/17"
 }
 {
     "index": 4,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": null,
+        "level_2": [],
+        "level_3": []
     },
     "coordinates": "Now displaying: 5/17"
 }
 {
     "index": 5,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": null,
+        "level_2": [],
+        "level_3": []
     },
     "coordinates": "Now displaying: 6/17"
 }
 {
     "index": 6,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": null,
+        "level_2": [],
+        "level_3": []
     },
     "coordinates": "Now displaying: 7/17"
 }
 {
-    "index": 7,
+    "index": 0,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": [],
+        "level_2": [],
+        "level_3": []
     },
-    "coordinates": "Now displaying: 8/17"
-}
-{
-    "index": 8,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 9/17"
-}
-{
-    "index": 9,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 10/17"
-}
-{
-    "index": 10,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 11/17"
-}
-{
-    "index": 11,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 12/17"
-}
-{
-    "index": 12,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 13/17"
-}
-{
-    "index": 13,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 14/17"
-}
-{
-    "index": 14,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 15/17"
-}
-{
-    "index": 15,
-    "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
-    },
-    "coordinates": "Now displaying: 16/17"
+    "coordinates": ""
 }
 {
     "index": 16,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_1": [],
+        "level_2": [],
+        "level_3": []
     },
     "coordinates": "Now displaying: 17/17"
 }
 {
+    "index": 15,
+    "selected_options": {
+        "level_1": [],
+        "level_2": [],
+        "level_3": []
+    },
+    "coordinates": "Now displaying: 16/17"
+}
+{
+    "index": 15,
+    "selected_options": {
+        "level_1": [],
+        "level_2": [],
+        "level_3": []
+    },
+    "coordinates": "Saved options: Level 1 - [], Level 2 - [], Level 3 - []"
+}
+{
+    "index": 16,
+    "selected_options": {
+        "level_1": "C",
+        "level_2": "6",
+        "level_3": "m"
+    },
+    "coordinates": "Now displaying: 17/17"
+}
+{
+    "index": 16,
+    "selected_options": {
+        "level_1": "C",
+        "level_2": "6",
+        "level_3": "m"
+    },
+    "coordinates": "Saved options: Level 1 - C, Level 2 - 6, Level 3 - m"
+}
+{
+    "index": 15,
+    "selected_options": {
+        "level_1": "C",
+        "level_2": "6",
+        "level_3": "m"
+    },
+    "coordinates": "Now displaying: 16/17"
+}
+{
     "index": 0,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_2": "C",
+        "level_3": "6"
     },
-    "coordinates": "Now displaying: 1/17"
+    "coordinates": ""
 }
 {
     "index": 1,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_2": "D",
+        "level_3": "7"
     },
     "coordinates": "Now displaying: 2/17"
 }
 {
+    "index": 1,
+    "selected_options": {
+        "level_2": "D",
+        "level_3": "7"
+    },
+    "coordinates": "Saved options: Level 2 - D, Level 3 - 7"
+}
+{
     "index": 2,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_2": "A",
+        "level_3": "2"
     },
     "coordinates": "Now displaying: 3/17"
 }
 {
+    "index": 2,
+    "selected_options": {
+        "level_2": "A",
+        "level_3": "2"
+    },
+    "coordinates": "Saved options: Level 2 - A, Level 3 - 2"
+}
+{
     "index": 3,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_2": "C",
+        "level_3": "5"
     },
     "coordinates": "Now displaying: 4/17"
 }
 {
+    "index": 3,
+    "selected_options": {
+        "level_2": "C",
+        "level_3": "5"
+    },
+    "coordinates": "Saved options: Level 2 - C, Level 3 - 5"
+}
+{
     "index": 4,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_2": "D",
+        "level_3": "8"
     },
     "coordinates": "Now displaying: 5/17"
 }
 {
+    "index": 4,
+    "selected_options": {
+        "level_2": "D",
+        "level_3": "8"
+    },
+    "coordinates": "Saved options: Level 2 - D, Level 3 - 8"
+}
+{
     "index": 5,
     "selected_options": {
-        "level_1": "B",
-        "level_2": "3",
-        "level_3": "f"
+        "level_2": "A",
+        "level_3": "1"
     },
     "coordinates": "Now displaying: 6/17"
 }
 {
-    "index": 0,
+    "index": 5,
     "selected_options": {
-        "level_1": "C",
-        "level_2": "6",
-        "level_3": "l"
+        "level_2": "A",
+        "level_3": "1"
     },
-    "coordinates": ""
+    "coordinates": "Saved options: Level 2 - A, Level 3 - 1"
+}
+{
+    "index": 4,
+    "selected_options": {
+        "level_2": "A",
+        "level_3": "1"
+    },
+    "coordinates": "Now displaying: 5/17"
+}
+{
+    "index": 0,
+    "subject": "box",
+    "object": "donut",
+    "predicate": "B-3",
+    "selected_options": {
+        "level_2": "B",
+        "level_3": "3"
+    }
+}
+{
+    "index": 1,
+    "subject": "box",
+    "object": "donut",
+    "predicate": "C-6",
+    "selected_options": {
+        "level_2": "C",
+        "level_3": "6"
+    }
+}
+{
+    "index": 0,
+    "subject": "box",
+    "object": "donut",
+    "predicate": "B-4",
+    "selected_options": {
+        "level_2": "B",
+        "level_3": "4"
+    }
+}
+{
+    "index": 0,
+    "subject": "dirt",
+    "object": "baseball field",
+    "predicate": "B-[]",
+    "selected_options": {
+        "level_2": "B",
+        "level_3": []
+    }
+}
+{
+    "index": 1,
+    "subject": "dirt",
+    "object": "baseball field",
+    "predicate": "B-None",
+    "selected_options": {
+        "level_2": "B",
+        "level_3": null
+    }
+}
+{
+    "index": 2,
+    "subject": "dirt",
+    "object": "baseball field",
+    "predicate": "B-None",
+    "selected_options": {
+        "level_2": "B",
+        "level_3": null
+    }
+}
+{
+    "index": 0,
+    "subject": "dirt",
+    "object": "baseball field",
+    "predicate": "has-has",
+    "selected_options": {
+        "level_2": "has",
+        "level_3": "has"
+    }
+}
+{
+    "index": 1,
+    "subject": "dirt",
+    "object": "baseball field",
+    "predicate": "wearing-wearing pair of",
+    "selected_options": {
+        "level_2": "wearing",
+        "level_3": "wearing pair of"
+    }
 }

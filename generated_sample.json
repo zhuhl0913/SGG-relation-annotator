@@ -1,1073 +1,209 @@
 [
     {
-        "image_path": "sample_folder\\image_2352060_pair_1.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_1_dirt_baseball field.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "dirt",
+        "object": "baseball field"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_10.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_2_umpire_catcher.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "umpire",
+        "object": "catcher"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_11.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_3_umpire_baseball field.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "umpire",
+        "object": "baseball field"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_12.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_4_player_dugout.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "player",
+        "object": "dugout"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_13.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_5_grass_infield.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "grass",
+        "object": "infield"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_14.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_6_dirt_dugout.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "dirt",
+        "object": "dugout"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_15.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_7_line_baseball field.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "line",
+        "object": "baseball field"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_16.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_8_part_infield.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
+        },
+        "subject": "part",
+        "object": "infield"
     },
     {
-        "image_path": "sample_folder\\image_2352060_pair_17.jpg",
+        "image_path": "output_images_2\\image_2375489_pair_9_team_baseball field.jpg",
         "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
+            "level_2": [
+                "wearing",
+                "has"
             ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
             "level_3": {
-                "1": [
-                    "a",
-                    "b"
+                "wearing": [
+                    "wearing",
+                    "wearing all",
+                    "wearing pair of",
+                    "wearing same",
+                    "wearing striped"
                 ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
+                "has": [
+                    "has"
                 ]
             }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_2.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_3.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_4.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_5.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_6.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_7.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_8.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
-    },
-    {
-        "image_path": "sample_folder\\image_2352060_pair_9.jpg",
-        "options": {
-            "level_1": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ],
-            "level_2": {
-                "A": [
-                    "1",
-                    "2"
-                ],
-                "B": [
-                    "3",
-                    "4"
-                ],
-                "C": [
-                    "5",
-                    "6"
-                ],
-                "D": [
-                    "7",
-                    "8"
-                ]
-            },
-            "level_3": {
-                "1": [
-                    "a",
-                    "b"
-                ],
-                "2": [
-                    "c",
-                    "d"
-                ],
-                "3": [
-                    "e",
-                    "f"
-                ],
-                "4": [
-                    "h",
-                    "i"
-                ],
-                "5": [
-                    "j",
-                    "k"
-                ],
-                "6": [
-                    "l",
-                    "m"
-                ],
-                "7": [
-                    "n",
-                    "o"
-                ],
-                "8": [
-                    "p",
-                    "q"
-                ]
-            }
-        }
+        },
+        "subject": "team",
+        "object": "baseball field"
     }
 ]
